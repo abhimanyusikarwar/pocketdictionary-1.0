@@ -1,0 +1,1 @@
+# pocketdictionary-1.0
